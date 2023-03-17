@@ -1,3 +1,4 @@
+![Alt Text](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
 [![GitHub Streak](https://streak-stats.demolab.com?user=YootTanA&theme=aura-dark)](https://git.io/streak-stats)
 
 ---
